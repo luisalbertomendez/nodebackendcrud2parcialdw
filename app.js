@@ -27,5 +27,5 @@ try {
 }) */
 
 app.listen(8000, () =>{
-    console.log('Server UP running in http://localhost:8000/')
+    console.log('Server UP running in http://54.161.15.196:8000/')
 })
